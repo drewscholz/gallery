@@ -1,0 +1,19 @@
+body {
+  margin: 20px;
+  background-color: black; #2D2D32;
+}
+
+img {
+  border: 2px solid black; #ddd;
+  border-radius: 4px;
+  /* padding: 5px; */
+  width: 150px;
+}
+
+#image_title {
+  vertical-align: middle;
+}
+
+.directory {
+  margin: auto;
+}
